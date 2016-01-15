@@ -1,4 +1,4 @@
-# HindiTransliterator
+# Hindi Transliterator
 Created by: Anuj Agrawal (Website: http://www.anujgeek.com/)
 <br>
 Created using: C#, WPF
