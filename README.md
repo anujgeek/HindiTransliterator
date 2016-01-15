@@ -1,7 +1,9 @@
 # Hindi Transliterator
 Created by: Anuj Agrawal (Website: http://www.anujgeek.com/)
 <br>
-Created using: C#, WPF
+Created using:
+<br>
+FrontEnd: C#, WPF
 
 ## Description
 Easily type in Hindi using an English keyboard. Supports all half-characters and all special character combinations.
