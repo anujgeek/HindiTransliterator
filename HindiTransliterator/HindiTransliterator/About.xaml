@@ -13,7 +13,7 @@
                 <GradientStop Color="White" Offset="0.273" />
             </LinearGradientBrush>
         </Grid.Background>
-        <Label Content="Hindi Transliterator" Height="49" HorizontalAlignment="Center" Margin="0,30,0,0" Name="label1" VerticalAlignment="Top" Width="265" Foreground="Black" FontFamily="Cambria Math" FontSize="30" />
+        <Label Content="Hindi Transliterator" Height="49" HorizontalAlignment="Center" Margin="0,30,0,0" Name="label1" VerticalAlignment="Top" Foreground="Black" FontFamily="Cambria Math" FontSize="30" />
         <Label Content="Created By: Anuj Agrawal" Height="40" HorizontalAlignment="Center" Margin="0,90,0,0" Name="label2" VerticalAlignment="Top" FontSize="20" />
         <Label Content="Website: http://www.anujgeek.com/" FontSize="20" Height="40" HorizontalAlignment="Center" Margin="0,120,0,0" Name="label3" VerticalAlignment="Top" />
         <Button Content="OK" Height="23" HorizontalAlignment="Center" Margin="0,175,0,0" Name="button1" VerticalAlignment="Top" Width="75" IsDefault="True" Click="button1_Click" />
